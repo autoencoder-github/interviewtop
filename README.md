@@ -31,27 +31,27 @@
 
 同时也欢迎大家关注我的公众号：**后端技术小牛说**，不定期分享技术文和一线大厂内推机会。
 
-<div  align="center">  <img src="https://cdn.jsdelivr.net/gh/autoencoder-github/acticle/qcode.jpg)" width = "150px" hight = "150px"/> </div>
+<div  align="center">  <img src="https://cdn.jsdelivr.net/gh/autoencoder-github/acticle/qcode.jpg" width = "150px" hight = "150px"/> </div>
 
 ## 📢计算机基础
 
 ### 数据结构与算法
-- [数据结构与算法面试题背诵版](https://github.com/autoencoder-github/interviewtop/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
+- [数据结构与算法面试题背诵版](https://gitee.com/autoencoder/interviewtop/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
   
 ### 操作系统
-- [操作系统面试题背诵版](https://github.com/autoencoder-github/interviewtop/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
+- [操作系统面试题背诵版](https://gitee.com/autoencoder/interviewtop/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 
 ### 计算机网络
-- [计算机网络面试题背诵版](https://github.com/autoencoder-github/interviewtop/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
+- [计算机网络面试题背诵版](https://gitee.com/autoencoder/interviewtop/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
   
 ### 数据库
-- [数据库面试题背诵版](https://github.com/autoencoder-github/interviewtop/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+- [数据库面试题背诵版](https://gitee.com/autoencoder/interviewtop/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 - Redis面试题背诵版
 
 ### 🍗Java语言特性
-- [Java基础](https://github.com/autoencoder-github/interviewtop/blob/main/Java%E5%9F%BA%E7%A1%80.md)
-- [Java多线程面试题背诵版](https://github.com/autoencoder-github/interviewtop/blob/main/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
-- [Java虚拟机面试题背诵版](https://github.com/autoencoder-github/interviewtop/blob/main/java%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+- [Java基础](https://gitee.com/autoencoder/interviewtop/blob/master/Java%E5%9F%BA%E7%A1%80.md)
+- [Java多线程面试题背诵版](https://gitee.com/autoencoder/interviewtop/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
+- [Java虚拟机面试题背诵版](https://gitee.com/autoencoder/interviewtop/blob/master/java%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
 ### 🍗JavaWeb框架
 - Spring
