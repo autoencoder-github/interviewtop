@@ -22,7 +22,9 @@
 
 大厂面试题在线网址，可以查到近期公司的八股文面试题。http://interviewtop.top
 
+八股文背题小程序：大家也可以搜索计算机面试八股文搜到这个小程序
 
+![](./assets/qrcode.jpg)
 
 这份仓库的pdf版百度云下载地址：
 >  [**点我下载**](https://pan.baidu.com/s/1jSJWShuC__vcMHqEQyntNw)
