@@ -1,3 +1,8 @@
+小牛和同学开发的八股文网站http://interviewtop.top 持续更新BAT面试题。
+
+
+![](interviewtop.jpg)
+
 ## 简述java内存模型（JMM）
 
 java内存模型定义了程序中各种变量的访问规则。其规定所有变量都存储在主内存，线程均有自己的工作内存。
